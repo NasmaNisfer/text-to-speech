@@ -1,0 +1,13 @@
+fastapi
+googletrans==4.0.0-rc1
+bs4
+requests
+uvicorn
+pydub
+gtts
+SpeechRecognition
+python-multipart
+WooCommerce
+lxml
+beautifulsoup4
+hugchat==0.2.6
